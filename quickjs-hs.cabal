@@ -1,4 +1,4 @@
-cabal-version:  1.12
+cabal-version:  2.0
 name:           quickjs-hs
 version:        0.1.2.4
 homepage:       https://github.com/goodlyrottenapple/quickjs-hs#readme
